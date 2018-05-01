@@ -13,7 +13,7 @@ function uuid() {
 
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
-    context.log('Arthur earned  a subscription to penthouse');
+    context.log('Arthur earned  a subscription to puppies unite');
     req.body.id = uuid();
 
     context.bindings.outputDocument = JSON.stringify(req.body);
