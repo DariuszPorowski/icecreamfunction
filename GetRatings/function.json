@@ -1,0 +1,25 @@
+{
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "documentDB",
+      "name": "inputDocument",
+      "databaseName": "openhack",
+      "collectionName": "Ratings",
+      "connection": "team4ratings_DOCUMENTDB",
+      "direction": "in",
+      "sqlQuery": "SELECT * FROM c WHERE c.userid={userid}"
+    }
+  ],
+  "disabled": false
+}

@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "team4ratings_DOCUMENTDB": "AccountEndpoint=https://team4ratings.documents.azure.com:443/;AccountKey=l987YupHrE4aKwc5pLwFI4Pjl7GXsH7VcWtMRNOHKtb1FlCytPR6tR5oADboVrsSl0ELtYBvcltrefFqNrR3sw==;",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "40a797e5-ca34-4d3f-b598-c9a9025ed27f",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=team4c29b07;AccountKey=bJVTzn9Gc0VTa5Sznj7CHoPnyeQtpnqac2PSMR2PeSd1CBPusPYnyJc4lOpgAtWgycZEc0yDI1sFkZ0XIXv5eQ==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=team4c29b07;AccountKey=bJVTzn9Gc0VTa5Sznj7CHoPnyeQtpnqac2PSMR2PeSd1CBPusPYnyJc4lOpgAtWgycZEc0yDI1sFkZ0XIXv5eQ==",
+    "WEBSITE_CONTENTSHARE": "team4c29b07",
+    "WEBSITE_SITE_NAME": "team4c2",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=team4c29b07;AccountKey=bJVTzn9Gc0VTa5Sznj7CHoPnyeQtpnqac2PSMR2PeSd1CBPusPYnyJc4lOpgAtWgycZEc0yDI1sFkZ0XIXv5eQ=="
+  }
+}
